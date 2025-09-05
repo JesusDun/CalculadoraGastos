@@ -17,10 +17,10 @@ Una aplicación web moderna para controlar gastos personales con gráficos inter
 ## Tecnologías Utilizadas
 
 ### Lenguajes
-- **JavaScript (ES6+)** - Lógica de la aplicación
+- **JavaScript** - Lógica de la aplicación
 - **JSX** - Sintaxis de React
-- **CSS3** - Estilos y diseño
-- **HTML5** - Estructura base
+- **CSS** - Estilos y diseño
+- **HTML** - Estructura base
 
 ### Frameworks y Librerías
 - **React 18** - Framework principal
